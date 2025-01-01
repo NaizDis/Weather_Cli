@@ -1,0 +1,12 @@
+/home/naiz/Documents/Rust_Projects/weather_cli/weather/target/debug/deps/libcolored-e15b16727637a18b.rmeta: /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/lib.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/color.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/control.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/error.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/style.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/customcolors.rs
+
+/home/naiz/Documents/Rust_Projects/weather_cli/weather/target/debug/deps/libcolored-e15b16727637a18b.rlib: /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/lib.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/color.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/control.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/error.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/style.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/customcolors.rs
+
+/home/naiz/Documents/Rust_Projects/weather_cli/weather/target/debug/deps/colored-e15b16727637a18b.d: /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/lib.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/color.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/control.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/error.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/style.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/customcolors.rs
+
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/lib.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/color.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/control.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/error.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/style.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.2.0/src/customcolors.rs:

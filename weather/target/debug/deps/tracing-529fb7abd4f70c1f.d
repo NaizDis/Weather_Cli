@@ -1,0 +1,13 @@
+/home/naiz/Documents/Rust_Projects/weather_cli/weather/target/debug/deps/libtracing-529fb7abd4f70c1f.rmeta: /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/lib.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/macros.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/dispatcher.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/field.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/instrument.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/level_filters.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/span.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/stdlib.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/subscriber.rs
+
+/home/naiz/Documents/Rust_Projects/weather_cli/weather/target/debug/deps/tracing-529fb7abd4f70c1f.d: /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/lib.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/macros.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/dispatcher.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/field.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/instrument.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/level_filters.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/span.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/stdlib.rs /home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/subscriber.rs
+
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/lib.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/macros.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/dispatcher.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/field.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/instrument.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/level_filters.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/span.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/stdlib.rs:
+/home/naiz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.41/src/subscriber.rs:
